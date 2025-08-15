@@ -96,17 +96,9 @@ body {
   transform: translateY(-1px);
 }
 
-.brand-icon {
-  width: 36px;
-  height: 36px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--primary-orange) 0%, var(--primary-orange-hover) 100%);
-  border-radius: var(--spacing-sm);
-  color: white;
-  box-shadow: var(--shadow-medium);
-  transition: all var(--transition-normal);
+.brand-icon img {
+  width: 24px;
+  height: 24px;
 }
 
 .brand-icon:hover {
