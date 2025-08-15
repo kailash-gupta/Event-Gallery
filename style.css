@@ -96,7 +96,7 @@ body {
   transform: translateY(-1px);
 }
 
-.brand-icon img {
+.brand-icon {
   width: 24px;
   height: 24px;
 }
